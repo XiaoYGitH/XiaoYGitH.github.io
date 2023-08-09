@@ -3,9 +3,10 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 4
+nav_order: 2
 cv_pdf: example_pdf.pdf
 description: 
+
 PhD student – Sep.2022 to Aug. 2025 – University of Edinburgh:
 - PhD project: Examining Different Strategies for Scaling-up Diagnostic AI
   Supervised by Robin Williams, Michael Barany, Stuart Anderson
