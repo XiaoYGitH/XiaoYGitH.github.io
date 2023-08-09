@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. University of Edinburgh
+subtitle: <a href='https://www.sps.ed.ac.uk/staff/xiao-yang'>Affiliations</a>. University of Edinburgh
 
 profile:
   align: right
   image: headshot.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Institute for the Study of Science, Technology and Innovation</p>
-    <p>Centre for Doctor Training of Biomedical AI</p>
-    <p>University of Edinburgh</p>
+#  address: >
+#    <p>Institute for the Study of Science, Technology and Innovation</p>
+#    <p>Centre for Doctor Training of Biomedical AI</p>
+#   <p>University of Edinburgh</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
